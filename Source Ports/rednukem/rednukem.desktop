@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=rednukem
+Icon=rednukem
+Terminal=false
+Type=Application
+StartupNotify=true
+Hidden=false
+Categories=Game
+Name=Rednukem

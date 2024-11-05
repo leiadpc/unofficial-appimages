@@ -1,0 +1,11 @@
+ runtime  src| 
+ 0.0632s INFO| Started at 2024-11-02 09:30:17.925
+ 0.0633s INFO| Exhumed r14113-a9348dc93
+ 0.0633s INFO| Built Oct 29 2024 16:39:15, GCC 14.2.1, 64-bit
+ 0.0633s INFO| Using directory /home/dmcclure/appimage-build/pcexhumed/usr/bin/
+ 0.0633s INFO| Using directory /home/dmcclure/.config/pcexhumed/
+ 0.0641s INFO| CPU: AMD Ryzen 9 7940HS w/ Radeon 780M Graphics     
+ 0.0641s INFO| Initializing SDL 2.30.3 (SDL-release-2.30.3-0-gfb1497566)
+ 0.2361s INFO| Using 'x11' video driver.
+ 0.2370s INFO| Searching for game data...
+ 0.2376s WARN| Found no recognized game data!

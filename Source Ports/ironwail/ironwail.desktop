@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=ironwail
+Icon=ironwail
+Terminal=false
+Type=Application
+StartupNotify=true
+Hidden=false
+Categories=Game
+Name=ironwail

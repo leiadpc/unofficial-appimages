@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=wrath-sdl
+Icon=wrath
+Terminal=false
+Type=Application
+StartupNotify=true
+Hidden=false
+Categories=Game
+Name=Wrath-SDL
