@@ -2,9 +2,6 @@
 Use [this](https://github.com/AppImage/appimagetool) to build the AppImages
 
 ### Source Ports - FPS
-![wolf3d](https://cdn2.steamgriddb.com/icon/8c027c101659347f0acda1c3eea18b6e.png | width=32)
-<img src="https://cdn2.steamgriddb.com/icon/8425bc94a44e3d1bb3c8c026b2702c00.png" alt="doom" style="width:32">
-<img src="https://cdn2.steamgriddb.com/icon/574ebc151c3252c2eb93d6504efdc5ab.png" alt="quake" style="width:32"><img src="https://cdn2.steamgriddb.com/icon/40a65e5a692bf1f5f1a81ec33021bda4.png" alt="duke3d" style="width:32">
 
 - [Darkplaces](https://github.com/DarkPlacesEngine/darkplaces): Enhanced Quake source port
 - [EDuke32 and VoidSW](https://voidpoint.io/terminx/eduke32): Build Engine source port for Duke Nukem 3D and Shadow Warrior
