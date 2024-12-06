@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=voidsw
-Icon=voidsw
-Terminal=false
-Type=Application
-StartupNotify=true
-Hidden=false
-Categories=Game
-Name=voidsw
