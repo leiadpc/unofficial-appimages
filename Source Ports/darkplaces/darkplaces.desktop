@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=darkplaces-sdl
-Icon=darkplaces
-Terminal=false
-Type=Application
-StartupNotify=true
-Hidden=false
-Categories=Game
-Name=Darkplaces-SDL
