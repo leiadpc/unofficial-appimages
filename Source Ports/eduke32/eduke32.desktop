@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=eduke32
-Icon=eduke32
-Terminal=false
-Type=Application
-StartupNotify=true
-Hidden=false
-Categories=Game
-Name=eduke32
