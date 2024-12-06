@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=zircon-sdl
-Icon=zircon
-Terminal=false
-Type=Application
-StartupNotify=true
-Hidden=false
-Categories=Game
-Name=Zircon-SDL
