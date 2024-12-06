@@ -1,9 +1,0 @@
-[Desktop Entry]
-Exec=nblood
-Icon=nblood
-Terminal=false
-Type=Application
-StartupNotify=true
-Hidden=false
-Categories=Game
-Name=nblood
