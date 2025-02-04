@@ -1,7 +1,9 @@
 # Unofficial AppImages
-Use [this](https://github.com/AppImage/appimagetool) to build the AppImages
+
+Reqests welcome, if any of these are out of date open an issue and I will work on getting them updated
 
 ### Source Ports
+These AppImages do not contain any game data, you need to have a copy of the game already to drop them into.
 
 - [Darkplaces](https://github.com/DarkPlacesEngine/darkplaces): Enhanced Quake source port
 - [EDuke32 and VoidSW](https://voidpoint.io/terminx/eduke32): Build Engine source port for Duke Nukem 3D and Shadow Warrior
