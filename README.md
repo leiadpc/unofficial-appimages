@@ -9,7 +9,7 @@ These AppImages do not contain any game data, you need to have a copy of the gam
 - [EDuke32 and VoidSW](https://voidpoint.io/terminx/eduke32): Build Engine source port for Duke Nukem 3D and Shadow Warrior
 - [Ironwail](https://github.com/andrei-drexler/ironwail): QuakeSpasm fork focused on performance
 - [NBlood, PCExhumed and Rednukem](https://github.com/nukeykt/NBlood): Eduke32 based source ports for Blood, Exhumend and Duke Nukem 3D
-- [NotBlood](https://github.com/clipmove/NotBlood): Gameplay Mod For NBlood
+- [NotBlood](https://github.com/clipmove/NotBlood): Standalone gameplay mod for NBlood
 - [OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2): A cross-platform reimplementation of JKDF2 in C
 - [Raptor](https://github.com/skynettx/raptor): Reversed-engineered source port from Raptor Call Of The Shadows
 - [Wrath](https://www.gog.com/en/game/wrath_aeon_of_ruin): Commercial game built with Darkplaces engine 
