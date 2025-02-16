@@ -2,6 +2,12 @@
 
 Requests welcome, if any of these are out of date open an issue and I will work on getting them updated
 
+### Games
+These AppImages include the necessary game data, just download and run.
+
+- [OpenTyian](https://github.com/opentyrian/opentyrian): An open-source port of the scrolling shooter Tyrian.
+- [OpenTyian2000](https://github.com/KScl/opentyrian2000): Fork of OpenTyian for Tyrian 2000.
+
 ### Source Ports
 These AppImages do not contain any game data, you need to have a copy of the game already to drop them into.
 
@@ -11,13 +17,11 @@ These AppImages do not contain any game data, you need to have a copy of the gam
 - [NBlood, PCExhumed and Rednukem](https://github.com/nukeykt/NBlood): Eduke32 based source ports for Blood, Exhumend and Duke Nukem 3D
 - [NotBlood](https://github.com/clipmove/NotBlood): Standalone gameplay mod for NBlood
 - [OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2): A cross-platform reimplementation of JKDF2 in C
-- [OpenTyian](https://github.com/opentyrian/opentyrian): An open-source port of the scrolling shooter Tyrian. You can get the game for free [here](https://camanis.net/tyrian/tyrian21.zip)
-- [OpenTyian2000](https://github.com/KScl/opentyrian2000): Fork of OpenTyian. You can get the game for free [here](https://www.camanis.net/tyrian/tyrian2000.zip)
 - [Raptor](https://github.com/skynettx/raptor): Reversed-engineered source port from Raptor Call Of The Shadows
 - [Wrath](https://www.gog.com/en/game/wrath_aeon_of_ruin): Commercial game built with Darkplaces engine 
 - [Zircon](https://www.moddb.com/mods/zircon-engine): Quake sorce port based on Darkplaces
 
 # Official AppImages
-Below are great projects with official appimage releases
+Below are some projects with official appimage releases
 ### Source Ports - FPS
 - [vkQuake](https://github.com/Novum/vkQuake): Vulkan Quake port based on QuakeSpasm
