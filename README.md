@@ -9,11 +9,9 @@ These AppImages include the necessary game data, just download and run.
 - [OpenTyian2000](https://github.com/KScl/opentyrian2000): Fork of OpenTyian for Tyrian 2000.
 
 ### Source Ports
-These AppImages do not contain any game data, you need to have a copy of the game already to drop them into.
-
 - [Darkplaces](https://github.com/DarkPlacesEngine/darkplaces): Enhanced Quake source port
 - [EDuke32 and VoidSW](https://voidpoint.io/terminx/eduke32): Build Engine source port for Duke Nukem 3D and Shadow Warrior
-- [Ironwail](https://github.com/andrei-drexler/ironwail): QuakeSpasm fork focused on performance
+- [Ironwail](https://github.com/andrei-drexler/ironwail): QuakeSpasm fork focused on performance, shareware included. Use "-basedir" option to set path to full game
 - [NBlood, PCExhumed and Rednukem](https://github.com/nukeykt/NBlood): Eduke32 based source ports for Blood, Exhumend and Duke Nukem 3D
 - [NotBlood](https://github.com/clipmove/NotBlood): Standalone gameplay mod for NBlood
 - [OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2): A cross-platform reimplementation of JKDF2 in C
