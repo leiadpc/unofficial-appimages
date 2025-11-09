@@ -11,6 +11,7 @@ These AppImages include the necessary game data, just download and run.
 ### Source Ports
 - [Darkplaces](https://github.com/DarkPlacesEngine/darkplaces): Enhanced Quake source port
 - [EDuke32 and VoidSW](https://voidpoint.io/terminx/eduke32): Build Engine source port for Duke Nukem 3D and Shadow Warrior
+- [GZDoom](https://github.com/ZDoom/gzdoom): GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
 - [Ironwail](https://github.com/andrei-drexler/ironwail): QuakeSpasm fork focused on performance, shareware included. Use "-basedir" option to set path to full game
 - [NBlood, PCExhumed and Rednukem](https://github.com/nukeykt/NBlood): Eduke32 based source ports for Blood, Exhumend and Duke Nukem 3D
 - [NotBlood](https://github.com/clipmove/NotBlood): Standalone gameplay mod for NBlood
